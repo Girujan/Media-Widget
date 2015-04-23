@@ -1,0 +1,5 @@
+To install onto your device and cause it to remain there each startup, open the file and obtain the PCWidget.jar file and copy it.
+Once copied, go to you file explorer and go to shell:startup and paste you jar file there.
+
+**Too Remove**
+Go to the shell:startup and remove jar file.
